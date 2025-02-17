@@ -1,1 +1,2 @@
 # Student-management-system
+The final project for the C programming course at Edges Training (Standard Embedded Systems Diploma by Engineer Mohamed Tarek) is a student management system. This project enables users to perform various operations, including adding new students, displaying the full list of students, searching for a student by ID, updating student information, calculating the average GPA, and identifying the student with the highest GPA.
